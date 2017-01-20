@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Enviroment/Monster_House.unity
+  isLoaded: 1
+  isActive: 1
